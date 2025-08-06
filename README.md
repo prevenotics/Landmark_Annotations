@@ -39,4 +39,5 @@ python Label.py
 | N   | Action     | Skip         |
 | R   | Action     | Previous     |
 
-Output Format
+![Labeling Tool UI] <img width="681" height="900" alt="image" src="https://github.com/user-attachments/assets/2f3c3dbf-7f1a-485f-9ac5-e4d32fb3ed38" />
+
