@@ -20,7 +20,8 @@ Labels are saved in a `labels.json` file in the selected image folder.
 git clone https://github.com/prevenotics/Landmark_Annotations.git
 cd Landmark_Annotations
 pip install Pillow
-python landmark_annotation_tool.py
+pip install tkinter
+python Label.py
 ## ⌨️ Shortcut Keys
 
 | Key | Label Type | Label/Action |
